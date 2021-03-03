@@ -107,4 +107,3 @@ see the [COPYING](COPYING) file for details. All example code in `src/examples`
 is put into public domain (or UNLICENSE) to free you from any legal obstacles
 when reusing the code in your apps. See the [COPYING-examples](COPYING-examples)
 file for details.
-# fmcorrade
